@@ -1,0 +1,18 @@
+title: Night Bus, One More Level
+character: cat-rainbow
+fashion: v1-hoodie
+panels:
+  - scene: waiting for the night bus on the green bench, console glowing
+    mood: focused, crescent eyes low
+    camera: medium shot
+    dialogue: "One more level. Then I go home."
+  - scene: the bus headlights appear down the dark street, he looks up from the console
+    pose: sitting, head lifted, console lowered in one paw
+    mood: surprised, crescent eyes wide
+    camera: medium shot
+    dialogue: "That's my bus?"
+  - scene: standing at the bus door, waving the console goodbye to the bench
+    pose: standing, one paw waving
+    mood: happy, upturned crescent eyes
+    camera: wide shot
+    dialogue: "Same bench tomorrow."

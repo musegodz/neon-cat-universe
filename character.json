@@ -1,0 +1,99 @@
+{
+  "characters": {
+    "cat-bus": {
+      "fixed": "Same black cat character, clean anime / cel illustration, 1280x720 landscape. Round black head, two tall pointed ears, white crescent-moon eyes, no goggles, no headphones. Plain white t-shirt, blue jeans, beige sneakers. Sitting on red bus / train seats at night, holding a small handheld console with both paws, legs apart, looking down. Red interior, dark night outside the window, city lights in the distance. Cinematic wide shot. No photorealism, no text in the image, no watermark.",
+      "label": "Cat — bus, casual",
+      "outfit": "plain white t-shirt, blue jeans, beige sneakers",
+      "reference": "assets/reference/ref-cat-bus.png",
+      "source_file": "image-24.png",
+      "role": "main character — also a game object / playable object in the console game"
+    },
+    "cat-laurel": {
+      "fixed": "Same black cat character, flat vector illustration, bold black shapes, 1280x720 landscape. Black cat in side profile, two tall pointed ears with grey-blue inner ears, large white crescent-moon eye, no goggles. Green laurel wreath across the forehead. Dark green hoodie with light-green trim and a neon mint paw logo on the chest. Solid bright green background. No photorealism, no text in the image, no watermark.",
+      "label": "Cat — laurel, green",
+      "outfit": "dark green hoodie with light-green trim, neon mint paw logo",
+      "reference": "assets/reference/ref-cat-laurel.png",
+      "source_file": "image-22.png",
+      "role": "main character — also a game object / playable object in the console game"
+    },
+    "cat-rainbow": {
+      "fixed": "Same black cat character, clean anime / cel illustration, flat colour + hard shadow, 1280x720 landscape. Round black head, two tall pointed ears with beige inner ears, red rim light on left ear, green rim light on right ear. Rainbow gradient ski goggles always on, blue left to green/yellow right, two white crescent-moon eyes visible inside the goggles only. White wired over-ear headphones always on, single white cable down the chest. Holding a red handheld game console with both paws, grey d-pad left, grey buttons right, small orange screen. Dark night, navy-black background, green bench, green tiled floor. Neon night lighting, red rim light left, green rim light right. No photorealism, no text in the image, no watermark.",
+      "label": "Cat — rainbow goggles (original)",
+      "outfit": "dark jacket with rainbow accent (see fashions/ for variants)",
+      "reference": "assets/reference/original.png",
+      "source_file": "image-20.png",
+      "role": "main character — also a game object / playable object in the console game"
+    },
+    "hooded-goggles": {
+      "fixed": "Same hooded character, flat vector illustration, bold black shapes, 1280x720 landscape. Faceless black hooded figure, face fully in shadow, no ears, no mouth. Round mint-green goggles with white rims and a white sparkle on each lens. Dark hooded sweatshirt with light-green highlights. Solid bright green background. No photorealism, no text in the image, no watermark.",
+      "label": "Hooded — round mint goggles",
+      "outfit": "dark hooded sweatshirt with light-green highlights",
+      "reference": "assets/reference/ref-hooded-goggles.png",
+      "source_file": "image-21.png",
+      "role": "main character — also a game object / playable object in the console game"
+    }
+  },
+  "fashions": {
+    "v1-hoodie": {
+      "label": "Hoodie oversized",
+      "outfit": "oversized black hoodie with rainbow drawstrings and small rainbow chest logo, baggy dark jeans, chunky white sneakers"
+    },
+    "v2-varsity": {
+      "label": "Varsity",
+      "outfit": "black and white varsity jacket with rainbow stripes on sleeves, plain white t-shirt underneath, black cargo pants, white high-top sneakers"
+    },
+    "v3-techwear": {
+      "label": "Techwear",
+      "outfit": "black tactical vest with rainbow zipper accents over dark long sleeve, black utility pants with straps and pockets, black boots with rainbow soles"
+    },
+    "v4-denim-retro": {
+      "label": "Denim retro 90s",
+      "outfit": "oversized dark denim jacket with rainbow patch on back, colourful striped t-shirt underneath, loose beige cargo pants, retro sneakers"
+    },
+    "laurel-varsity": {
+      "label": "Cat-laurel V2 Varsity",
+      "character": "cat-laurel",
+      "outfit": "black and white varsity jacket with green stripes on sleeves, plain white t-shirt underneath, dark jeans"
+    },
+    "hooded-techwear": {
+      "label": "Hooded V2 Techwear",
+      "character": "hooded-goggles",
+      "outfit": "black tactical vest with mint-green zipper accents worn over the dark hooded sweatshirt, black utility pants with straps"
+    },
+    "bus-hoodie": {
+      "label": "Cat-bus V2 Hoodie",
+      "character": "cat-bus",
+      "outfit": "oversized black hoodie with rainbow drawstrings and small rainbow chest logo, baggy dark jeans, chunky white sneakers"
+    }
+  },
+  "name": "Neon Cat universe",
+  "open_questions": [
+    "Which repo name? Proposed: neon-cat-universe (alt: nulls-game) — awaiting Mirel"
+  ],
+  "status": "draft v0.4.0 — 13 Nov: per-character fashion variants added (laurel-varsity, hooded-techwear, bus-hoodie). Push target: musegodz ONLY, never zannyzette.",
+  "universe": "Black cat + hooded figure, night city, retro handheld gaming, bright green + neon night palettes",
+  "variable_only": [
+    "character",
+    "fashion (cat-rainbow only)",
+    "scene",
+    "pose_detail",
+    "expression_via_eyes_or_goggles",
+    "dialogue",
+    "camera"
+  ],
+  "version": "0.4.0",
+  "world": {
+    "nulls-gear": {
+      "fixed": "Flat-lay of transparent retro gaming hardware, clean illustration, dark red / maroon background, red rim light. Clear plastic shells showing green circuit boards inside. Devices labelled NULLS, NULLBOY, NULLCAM, NULLSTATION MEMORY CARD. Handheld consoles, a camera, a controller, a disc, a cartridge, a memory card. No people, no text beyond the device labels, no watermark.",
+      "label": "NULLS gear — transparent retro hardware",
+      "reference": "assets/reference/ref-nulls-gear.png",
+      "source_file": "image-23.png",
+      "role": "in-game objects / gear set in the console game"
+    }
+  },
+  "reference_images": {
+    "cat-laurel-v2-varsity": "assets/variants/cat-laurel-v2-varsity.webp",
+    "hooded-v2-techwear": "assets/variants/hooded-v2-techwear.webp",
+    "cat-bus-v2-hoodie": "assets/variants/cat-bus-v2-hoodie.webp"
+  }
+}
