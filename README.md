@@ -5,7 +5,7 @@ Same characters, same styles in every panel — only the fashion / scene changes
 
 ## Status
 
-Draft v0.2.0 — 13 Nov 2026. Four new references added, awaiting Mirel's roster call before locking a canonical main character.
+Draft v0.4.0 — 13 Nov 2026. All four characters are MAIN characters, and all of them + the NULLS gear are also game objects in the console game. Per-character fashion variants added: laurel-varsity, hooded-techwear, bus-hoodie.
 
 | ID | Who | Reference |
 |---|---|---|
@@ -22,7 +22,7 @@ Fashion variants for `cat-rainbow` (generated 13 Nov):
 - V3 Techwear — `assets/variants/v3-techwear.webp`
 - V4 Denim retro — `assets/variants/v4-denim-retro.webp`
 
-Open questions (in `character.json`): are the three cat images the same cat in different styles/outfits, or separate characters? Is the hooded figure separate, or the same cat with the hood up? Which is the main character?
+Push target: `musegodz` only, never `zannyzette`.
 
 ## Files
 
